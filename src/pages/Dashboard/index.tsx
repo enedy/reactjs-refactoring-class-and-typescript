@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import Food from '../../components/Food';
 import Header from '../../components/Header';
 import { ModalAddFood } from '../../components/ModalAddFood';
